@@ -10,4 +10,4 @@ compatibility_date = "2024-04-15"
 [vars]
 # UUID = "example_dev_token"
 # wrangler.toml
-name = '6610edgetunnel'
+name = "6610edgetunnel"
